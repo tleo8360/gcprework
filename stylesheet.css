@@ -1,0 +1,63 @@
+*{
+	background-color:#ffccff;
+	opacity:.97;
+}
+
+@font-face {
+	font-family: Chunkfive;
+	src: url('Chunkfive.otf');
+
+}
+
+h1{
+	height:65px;
+	width:600px;
+	margin: 30px auto 30px auto;
+	font-family: Chunkfive;
+	text-align:center;
+	font-size: 72px;
+	color:#cc0099;
+	padding:10px;
+	border: 4px dotted white;
+}
+
+
+ul{
+	margin: 0px auto 0px auto;
+	border: 2px solid #000;
+	border-color: white;
+	width: 100%;
+	padding:10px;
+	text-align: center;
+}	
+
+
+
+li{
+	display:inline;
+	margin: 0px 3px auto 3px;
+	font-family: Chunkfive;
+	font-size: 24px;
+	background-color: #ffccff;
+}
+
+a{ 
+text-decoration: none;
+color:#cc0099;
+}
+
+li a:hover {
+    background-color: #ff3399;
+}
+
+
+
+img{
+	border-radius: 5px;
+	margin: 12px;
+	-mox-box-shadow: 5px 5px 5px #777777;
+	-webkit-box-shadow: 5px 5px 5px #777777;
+	box-shadow: 5px 5px 5px #777777;
+}
+
+

@@ -1,0 +1,69 @@
+
+
+*{background-color: violet;
+opacity: .97;
+}
+
+@font-face {
+	font-family: Chunkfive;
+	src: url('Chunkfive.otf');}
+
+#java{
+	font-family: Georgia;
+	height: 100px;
+	width: 300px;
+}
+
+
+h1{font-family:Chunkfive;
+	color: blue;
+	font-size:48px;
+	text-align: center;
+	}
+
+#contact{
+	
+	margin: auto;
+	width:30%;
+	padding: 10px;
+	font-family:Helvetica;
+	font-size: 24px;
+	border-radius: 5px;
+	-mox-box-shadow: 5px 5px 5px 5px #777777;
+	-webkit-box-shadow: 5px 5px 5px 5px #777777;
+	box-shadow: 5px 5px 5px 5px #777777;
+
+}
+
+input{
+	width:100%;
+	height: 30px;
+	background-color: #99ccff;
+
+}
+input[type=text] {
+    background-color: white;
+    color: blue;
+    font-family: Arial;
+    font-size: 18px;
+}
+input[type=email] {
+    background-color: white;
+    color: blue;
+    font-family: Arial;
+    font-size: 18px
+}
+
+
+
+.contact {
+	text-align: center;
+	color:blue;
+	font-family:Chunkfive;
+	font-size: 18px;
+	padding: 10px;
+
+}
+
+
+
